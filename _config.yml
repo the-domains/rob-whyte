@@ -1,0 +1,28 @@
+name: Rob Whyte
+favicon: null
+layout_spectrum: 0.4812794018071145
+typography_spectrum: 0.49582728440873325
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.23645225097425282
+  lightness: 0.792675185482949
+  saturation: 0.407422658521682
+  rhythmicContrast: 0.8178855266887695
+purpose: []
