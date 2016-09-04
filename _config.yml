@@ -1,20 +1,4 @@
-name: Rob Whyte
-favicon: null
-layout_spectrum: 0.06743
 typography_spectrum: 0.7509
-title: Brainfarts of Rob
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,24 @@ color:
   lightness: 0.792675185482949
   saturation: 0.407422658521682
   rhythmicContrast: 0.8178855266887695
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.06743
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Rob Whyte
+  email: rob@robwhyte.com
+  url: about.me/robwhyte
+name: Rob Whyte
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: my brainfarts
 purpose: []
